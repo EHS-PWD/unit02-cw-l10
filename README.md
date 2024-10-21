@@ -10,7 +10,7 @@ Students will enhance the user information table project by incorporating variou
 
 1. **Set Up Your New Project (if not done already):**
 
-   - Inside of the `user-table-project` folder, create a new folder called `images`. Save the user profile images `user1.jpg`, `user2.jpg`, and `user3.jpg` inside the `images` folder.
+   - Inside of the `user-table-project` folder, create a new folder called `images`. Search online for 3 headshots and save the user profile images `user1.jpg`, `user2.jpg`, and `user3.jpg` inside the `images` folder.
 
 2. **Update the HTML Structure to Include Image Elements:**
 
